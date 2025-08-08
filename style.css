@@ -19,7 +19,7 @@
 }
 
 .logo{
-background-image:url("/Starbox/Logo.jpg");
+background-image:url("images/Logo.jpg");
 background-size:cover;
 height: 50px;
 width: 350px;
@@ -101,7 +101,7 @@ span{
 }
 .hero-section
   {
-   background-image:url("/Starbox/images/main.jpg");
+   background-image:url("images/main.jpg");
    background-size: cover;
    display: flex;
    justify-content: center;
@@ -118,7 +118,7 @@ span{
   {
     height: 50%;
     width: 100%;
-    background-image: url("/Starbox/images/b.jpg");
+    background-image: url("images/b.jpg");
   }
   .box
   {
@@ -219,7 +219,7 @@ color: #007185;
     align-items: center;
   }
   .logo{
- background-image:url("/Starbox/images/Logo.png");
+ background-image:url("images/Logo.png");
 background-size: cover;
 height: 50px;
 width: 80px;
@@ -253,4 +253,5 @@ color: #007185;
   {
     padding-top: 5px;
     
+
   }
